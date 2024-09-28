@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.jar": "plaintext",
+        "stdio.h": "c"
+    }
+}
